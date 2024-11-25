@@ -3,7 +3,7 @@ Professor, a gente não tava conseguindo upar o código via comando pro Git, ten
 
 # projetoAppMoveis
 # Integrantes da equipe
-Juliano Visoli Melato
+Juliano Visoli Melato;
 Guilherme Assunção dos Santos
 
 # Funcionalidades do código
